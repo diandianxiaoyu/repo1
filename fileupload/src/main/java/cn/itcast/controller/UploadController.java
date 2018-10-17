@@ -39,6 +39,10 @@ public class UploadController {
 
         return "success";
     }
+
+//    public void test(){
+//        System.out.println("ds = ");
+//    }
 }
 
 
